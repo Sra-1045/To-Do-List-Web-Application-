@@ -1,18 +1,21 @@
-# To-Do-List-Web-Application-
-To Do list with basic functionality and simple  User Interface  using HTML , CSS and JavaScript 
+# Todo list app
+A todo list app
 
-This is a basic to do list functionality with basic functionality and simple styling
-***********
- 
-<h3>HTML</h3>
-<h3>CSS</h3>
-<h3>JavaScript</h3>
-<h3>FreeFakeAPI</h3>
 
-<h4>VisualStudio Editor</h4>
-****
-<img src=""></img>
+### General steps to follow when creating a project
 
-********
-
-<img src="" ></img>
+- Thinking about the UI
+- Functionality
+	- Add a TODO
+	- Delete a TODO
+	- check task
+	- total items count
+- Data
+	- tasks - an array
+	- task - {done, text, id}
+- Functions (in code)
+	- addTodo
+	- deleteTodo
+	- checkTodo
+	- renderTodosList
+	- showNotification
