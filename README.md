@@ -5,11 +5,11 @@ This is a basic to do list functionality with basic functionality and simple sty
 ***********
  
 <h3>HTML</h3>
-#CSS
-#JavaScript
-#FreeFakeAPI
+<h3>CSS</h3>
+<h3>JavaScript</h3>
+<h3>FreeFakeAPI</h3>
 
-VisualStudio Editor
+<h4>VisualStudio Editor</h4>
 ****
 <img src=""></img>
 
