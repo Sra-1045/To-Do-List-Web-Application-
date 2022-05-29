@@ -4,7 +4,7 @@ To Do list with basic functionality and simple  User Interface  using HTML , CSS
 This is a basic to do list functionality with basic functionality and simple styling
 ***********
  
-#HTML
+<h3>HTML</h3>
 #CSS
 #JavaScript
 #FreeFakeAPI
